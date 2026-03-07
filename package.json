@@ -1,5 +1,5 @@
 {
-	"name": "text-reveal",
+	"name": "reveal-text",
 	"version": "1.0.0",
 	"description": "Lightweight text animation primitives for React — typewriter, reveal, scramble, split-text. Zero dependencies, accessible, <3KB.",
 	"type": "module",
@@ -70,11 +70,11 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/mulkatz/text-reveal.git"
+		"url": "git+https://github.com/mulkatz/reveal-text.git"
 	},
 	"bugs": {
-		"url": "https://github.com/mulkatz/text-reveal/issues"
+		"url": "https://github.com/mulkatz/reveal-text/issues"
 	},
 	"author": "Franz Benthin",
-	"homepage": "https://text-reveal.mulkatz.dev"
+	"homepage": "https://reveal-text.mulkatz.dev"
 }

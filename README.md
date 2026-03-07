@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/text-reveal"><img src="https://img.shields.io/npm/v/text-reveal" alt="npm version" /></a>
-  <img src="https://img.shields.io/bundlephobia/minzip/text-reveal" alt="bundle size" />
-  <img src="https://img.shields.io/npm/l/text-reveal" alt="license" />
+  <a href="https://www.npmjs.com/package/reveal-text"><img src="https://img.shields.io/npm/v/reveal-text" alt="npm version" /></a>
+  <img src="https://img.shields.io/bundlephobia/minzip/reveal-text" alt="bundle size" />
+  <img src="https://img.shields.io/npm/l/reveal-text" alt="license" />
 </p>
 
 <p align="center">
-  <a href="https://text-reveal.mulkatz.dev"><strong>Live Demo</strong></a>
+  <a href="https://reveal-text.mulkatz.dev"><strong>Live Demo</strong></a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ## Install
 
 ```bash
-npm install text-reveal
+npm install reveal-text
 ```
 
 ## Quick Start
@@ -42,7 +42,7 @@ npm install text-reveal
 ### Hooks (full control)
 
 ```tsx
-import { useTextReveal, useTypewriter, useScramble } from "text-reveal";
+import { useTextReveal, useTypewriter, useScramble } from "reveal-text";
 
 // Split-text reveal with staggered animation
 function Hero() {
@@ -80,7 +80,7 @@ function Reveal() {
 ### Component (quick & easy)
 
 ```tsx
-import { TextReveal } from "text-reveal";
+import { TextReveal } from "reveal-text";
 
 <TextReveal preset="fade-up-word" as="h1">
   Every word fades up.

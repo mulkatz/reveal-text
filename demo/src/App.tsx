@@ -1,5 +1,5 @@
 import { useState, useCallback } from "react";
-import { useTextReveal, useTypewriter, useScramble, TextReveal } from "text-reveal";
+import { useTextReveal, useTypewriter, useScramble, TextReveal } from "reveal-text";
 
 function DemoSection({
 	title,
@@ -165,7 +165,7 @@ function PresetDemo() {
 
 function InstallBlock() {
 	const [copied, setCopied] = useState(false);
-	const cmd = "npm install text-reveal";
+	const cmd = "npm install reveal-text";
 
 	const copy = useCallback(() => {
 		navigator.clipboard.writeText(cmd);
@@ -287,13 +287,13 @@ export default function App() {
 					<span>text-reveal</span>
 					<div className="flex gap-6">
 						<a
-							href="https://github.com/mulkatz/text-reveal"
+							href="https://github.com/mulkatz/reveal-text"
 							className="hover:text-white/50 transition-colors"
 						>
 							github
 						</a>
 						<a
-							href="https://www.npmjs.com/package/text-reveal"
+							href="https://www.npmjs.com/package/reveal-text"
 							className="hover:text-white/50 transition-colors"
 						>
 							npm
