@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+CLAUDE.md
+docs/adr/
+.claude/
+tmp-video/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
