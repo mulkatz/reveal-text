@@ -1,6 +1,6 @@
 <p align="center"><img src="./icon.png" width="120" /></p>
 
-<h1 align="center">text-reveal</h1>
+<h1 align="center">reveal-text</h1>
 
 <p align="center">
   Lightweight text animation primitives for React.<br/>
@@ -21,7 +21,7 @@
   <img src="./assets/demo.gif" alt="text-reveal demo" width="640" />
 </p>
 
-## Why text-reveal?
+## Why reveal-text?
 
 - **All-in-one**: Typewriter + split-text reveal + scramble in a single package
 - **Zero dependencies**: Pure CSS animations + lightweight JS. No Framer Motion, no GSAP

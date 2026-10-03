@@ -32,3 +32,9 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      - name: Install demo dependencies
+        run: npm ci --prefix demo
+
+      - name: Build demo
+        run: npm run build --prefix demo
