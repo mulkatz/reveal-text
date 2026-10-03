@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/reveal-text"><img src="https://img.shields.io/npm/v/reveal-text" alt="npm version" /></a>
-  <img src="https://img.shields.io/bundlephobia/minzip/reveal-text" alt="bundle size" />
   <img src="https://img.shields.io/npm/l/reveal-text" alt="license" />
 </p>
 
@@ -18,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/demo.gif" alt="text-reveal demo" width="640" />
+  <img src="./assets/demo.gif" alt="reveal-text demo" width="640" />
 </p>
 
 ## Why reveal-text?

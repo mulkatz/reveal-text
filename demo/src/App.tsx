@@ -194,7 +194,7 @@ export default function App() {
 			<header className="pt-24 pb-16 px-6">
 				<div className="max-w-3xl mx-auto">
 					<p className="text-xs uppercase tracking-[0.3em] text-white/25 mb-6 font-mono">
-						text-reveal
+						reveal-text
 					</p>
 					<h1 className="text-4xl md:text-6xl font-light tracking-tight leading-[1.1] mb-6">
 						<TextReveal preset="fade-up-word" as="span">
@@ -284,7 +284,7 @@ export default function App() {
 			{/* Footer */}
 			<footer className="py-16 px-6 border-t border-white/5">
 				<div className="max-w-3xl mx-auto flex items-center justify-between text-xs text-white/20 font-mono">
-					<span>text-reveal</span>
+					<span>reveal-text</span>
 					<div className="flex gap-6">
 						<a
 							href="https://github.com/mulkatz/reveal-text"

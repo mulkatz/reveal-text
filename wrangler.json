@@ -1,6 +1,12 @@
 {
-	"name": "reveal-text-demo",
+	"name": "reveal-text",
 	"compatibility_date": "2026-03-07",
+	"routes": [
+		{
+			"pattern": "reveal-text.mulkatz.dev",
+			"custom_domain": true
+		}
+	],
 	"assets": {
 		"directory": "demo/dist"
 	}
