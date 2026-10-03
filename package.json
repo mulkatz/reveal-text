@@ -1,6 +1,6 @@
 {
 	"name": "reveal-text",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Lightweight text animation primitives for React — typewriter, reveal, scramble, split-text. Zero dependencies, accessible, <3KB.",
 	"type": "module",
 	"main": "./dist/index.cjs",

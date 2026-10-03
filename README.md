@@ -1,4 +1,4 @@
-<p align="center"><img src="./icon.png" width="120" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mulkatz/reveal-text/main/icon.png" width="120" alt="reveal-text icon" /></p>
 
 <h1 align="center">reveal-text</h1>
 
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/reveal-text"><img src="https://img.shields.io/npm/v/reveal-text" alt="npm version" /></a>
-  <img src="https://img.shields.io/npm/l/reveal-text" alt="license" />
+  <a href="https://github.com/mulkatz/reveal-text/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license" /></a>
 </p>
 
 <p align="center">
